@@ -20,3 +20,12 @@ localhost:3030/ok
 ## Features
 
 - Ok endpoint that returns "ok" and unix timestamp example :  ```json {"response":"ok","timestamp":1771350584246}```
+
+## License
+
+This project is source-available under the Source-Available Commercial License (SACL).
+
+Free for non-commercial use.
+Commercial use requires a separate license.
+
+Contact: your-email@domain.com
