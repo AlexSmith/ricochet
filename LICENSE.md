@@ -35,9 +35,7 @@ Commercial Use of the Licensed Work is **not permitted** under this License.
 
 If you wish to use the Licensed Work for Commercial Use, you must obtain a separate commercial license from the Licensor.
 
-To request a commercial license, contact:
-
-**your-email@domain.com**
+To request a commercial license, contact : repo owner
 
 Any Commercial Use without an executed commercial license agreement is a violation of this License.
 
